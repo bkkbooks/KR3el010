@@ -1,0 +1,187 @@
+canonical_identifier: bkk:krp/KR3el010/v1
+canonical_location: https://kanripo.org/bkk/KR3el010/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 跌損妙方
+  identifiers:
+    krp: KR3el010
+  tags:
+    kr-categories: KR3el
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el010.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3el010_000.yaml, hash: 'sha256:595aed74e26d8cf8a8f7edd5aab366a0cf329eac3fcc06985ccc152208748db3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el010_000.markers.yaml, hash: 'sha256:2b58e56ba8d29a0bebdc11224f726916227d769cc7447c447ec1f16a7529eba3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 347
+  label: 治法總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d3.h1s1
+    span:
+    - body
+    - 347
+    - 550
+  label: 用藥歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d4.h1s1
+    span:
+    - body
+    - 550
+    - 655
+  label: 血頭行走穴道歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d5.h1s1
+    span:
+    - body
+    - 655
+    - 766
+  label: 左右論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d6.h1s1
+    span:
+    - body
+    - 766
+    - 869
+  label: 藥中禁忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d7.h1s1
+    span:
+    - body
+    - 869
+    - 967
+  label: 穴名藥名
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d8.h1s1
+    span:
+    - body
+    - 967
+    - 1018
+  label: 全身門第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d9.h1s1
+    span:
+    - body
+    - 1018
+    - 3196
+  label: 全身門用藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d10.h1s1
+    span:
+    - body
+    - 3196
+    - 4762
+  label: 頭面門第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d11.h1s1
+    span:
+    - body
+    - 4762
+    - 7505
+  label: 身中門第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d12.h1s1
+    span:
+    - body
+    - 7505
+    - 8945
+  label: 脊背門第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d13.h1s1
+    span:
+    - body
+    - 8945
+    - 9649
+  label: 腿足門第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d14.h1s1
+    span:
+    - body
+    - 9649
+    - 10439
+  label: 金創門第六杖傷附
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d15.h1s1
+    span:
+    - body
+    - 10439
+    - 11197
+  label: 通用門第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d16.h1s1
+    span:
+    - body
+    - 11197
+    - 11320
+  label: 跌損妙方書後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el010_jc_000-d17.h1s1
+    span:
+    - body
+    - 11320
+    - 11424
+  label: 謹跋
+  type: section
+  level: 1
+hash: sha256:1942d6c501e2d870d82aa83903a6fe72cb2b812194659b7d36d156e6fa081afd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
